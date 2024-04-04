@@ -1,0 +1,62 @@
+2024-01-21 11:08:41,808 ~ users.py ~ User database successfully instantiated
+2024-01-21 11:08:41,808 ~ user_status.py ~ __init__ ~ Status database successfully instantiated
+2024-01-21 11:09:08,599 ~ users.py ~ User database successfully instantiated
+2024-01-21 11:09:08,599 ~ user_status.py ~ __init__ ~ Status database successfully instantiated
+2024-01-21 11:09:24,208 ~ user_status.py ~ __init__ ~ Status jake_001 successfully created
+2024-01-21 11:09:24,209 ~ user_status.py ~ add_status ~ Status ID jake_001 successfully added to the database
+2024-01-21 11:09:36,045 ~ user_status.py ~ add_status ~ Status ID jake_001 already exists in the database
+2024-01-21 11:10:14,039 ~ user_status.py ~ add_status ~ Status ID jake_001 already exists in the database
+2024-01-21 11:10:59,070 ~ users.py ~ User database successfully instantiated
+2024-01-21 11:10:59,070 ~ user_status.py ~ __init__ ~ Status database successfully instantiated
+2024-01-21 11:11:16,156 ~ user_status.py ~ __init__ ~ Status jake_001 successfully created
+2024-01-21 11:11:16,156 ~ user_status.py ~ add_status ~ Status ID jake_001 successfully added to the database
+2024-01-21 11:11:32,700 ~ user_status.py ~ add_status ~ Status ID jake_001 already exists in the database
+2024-01-21 11:13:21,276 ~ users.py ~ User database successfully instantiated
+2024-01-21 11:13:21,276 ~ user_status.py ~ __init__ ~ Status database successfully instantiated
+2024-01-21 11:13:30,167 ~ user_status.py ~ __init__ ~ Status jake_001 successfully created
+2024-01-21 11:13:30,168 ~ user_status.py ~ add_status ~ Status ID jake_001 successfully added to the database
+2024-01-21 11:13:45,042 ~ user_status.py ~ add_status ~ Status ID jake_001 already exists in the database
+2024-01-21 11:15:42,386 ~ users.py ~ User database successfully instantiated
+2024-01-21 11:15:42,386 ~ user_status.py ~ __init__ ~ Status database successfully instantiated
+2024-01-21 11:15:51,899 ~ user_status.py ~ __init__ ~ Status jake_001 successfully created
+2024-01-21 11:15:51,899 ~ user_status.py ~ add_status ~ Status ID jake_001 successfully added to the database
+2024-01-21 11:16:02,503 ~ user_status.py ~ add_status ~ Status ID jake_001 already exists in the database
+2024-01-21 11:16:21,383 ~ user_status.py ~ modify_status ~ Status ID jake_001 successfully modified in the database
+2024-01-21 11:16:40,964 ~ user_status.py ~ modify_status ~ Status ID jake_00010542 does not exist in the database
+2024-01-21 11:16:55,627 ~ user_status.py ~ search_status ~ Status ID jake_001 was found in the database
+2024-01-21 11:17:05,331 ~ user_status.py ~ search_status ~ Status ID jake_005206 was not found in the database
+2024-01-21 11:17:05,331 ~ user_status.py ~ __init__ ~ Status None successfully created
+2024-01-21 11:17:22,274 ~ user_status.py ~ delete_status ~ Status ID jake_001 successfully deleted from the database
+2024-01-21 11:17:27,211 ~ user_status.py ~ delete_status ~ Status ID jake_001 does not exist in the database
+2024-01-21 11:17:41,753 ~ users.py ~ User database successfully instantiated
+2024-01-21 11:17:41,753 ~ user_status.py ~ __init__ ~ Status database successfully instantiated
+2024-01-21 11:23:25,082 ~ users.py ~ User ID jakeh successfully created
+2024-01-21 11:23:25,082 ~ users.py ~ User ID elizabethc successfully created
+2024-01-21 11:23:25,082 ~ users.py ~ User ID matthewm successfully created
+2024-01-21 11:23:25,082 ~ users.py ~ User database successfully instantiated
+2024-01-21 11:23:25,082 ~ user_status.py ~ __init__ ~ Status jakeh_00001 successfully created
+2024-01-21 11:23:25,082 ~ user_status.py ~ __init__ ~ Status elizabethc_00001 successfully created
+2024-01-21 11:23:25,082 ~ user_status.py ~ __init__ ~ Status matthewm_00001 successfully created
+2024-01-21 11:23:25,082 ~ user_status.py ~ __init__ ~ Status jakeh_00002 successfully created
+2024-01-21 11:23:25,082 ~ user_status.py ~ __init__ ~ Status jakeh_00003 successfully created
+2024-01-21 11:23:25,082 ~ user_status.py ~ __init__ ~ Status database successfully instantiated
+2024-01-21 11:35:12,200 ~ users.py ~ User database successfully instantiated
+2024-01-21 15:51:29,067 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:51:44,322 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:51:44,330 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:51:49,260 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:51:49,269 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:52:28,286 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:52:28,300 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:54:44,038 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:54:44,046 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:54:53,195 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:54:53,204 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:58:02,495 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:58:02,504 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:58:10,400 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:58:10,409 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:58:42,043 ~ users.py ~ User database successfully instantiated
+2024-01-21 16:58:42,053 ~ users.py ~ User database successfully instantiated
+2024-01-21 17:01:01,252 ~ users.py ~ User database successfully instantiated
+2024-01-21 17:06:20,657 ~ users.py ~ User ID None successfully created

@@ -1,0 +1,25 @@
+# mongo_config_dev.yaml
+
+# This is configuration set up to be run from the main dir in the repo
+
+# to start Mongo:
+
+# mongod -f mongo_config_dev.yml
+
+# On Windows you may need the .exe:
+
+# mongod.exe -f mongo_config_dev.yml
+
+net:
+  bindIp: 127.0.0.1  # Enter 0.0.0.0,:: to bind to all IPv4 and IPv6 addresses or, alternatively, use the net.bindIpAll setting.
+  port: 27017  # this is the mongo default
+
+systemLog:
+  destination: file
+  path: "./mongo_files/mongod.log"
+  logAppend: false
+
+storage:
+   dbPath: "./mongo_files"
+   journal:
+     enabled: true
